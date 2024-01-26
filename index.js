@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Gerenciando Viegas Store","Eu estou online!"];
+const statusMessages = ["Gerenciando VGS Services","Eu estou online!"];
 
 
 let currentIndex = 0;
